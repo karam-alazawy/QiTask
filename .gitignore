@@ -1,0 +1,30 @@
+# Laravel
+/vendor
+/node_modules
+/.idea
+/.env
+/.phpunit.result.cache
+/storage/*.key
+/public/hot
+/public/storage
+/storage/*.sqlite
+/.vscode
+
+# Laravel 8+
+/vendor
+/.pnp
+.pnp.js
+
+# Composer
+/composer.lock
+
+# NPM
+/node_modules
+
+# Logs
+/storage/logs
+
+# Cache
+/bootstrap/cache/*
+!bootstrap/cache/.gitignore
+!bootstrap/cache
